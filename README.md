@@ -22,3 +22,5 @@ Hi! This is my repository where I upload my daily Python practice. I am learning
 * **Learning Site:** W3Schools Python Tutorial
 * **Code Editor:** Visual Studio Code
 * **Language:** Python
+
+Click here to view my code files and scripts - (https://github.com/snehatiwari5179-ai/python-fundamentals)
