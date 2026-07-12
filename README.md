@@ -8,7 +8,7 @@ Hi! This is my repository where I upload my daily Python practice. I am learning
 * ✅ **Python Data Types** (Learning about text, numbers, and categories)
 * ✅ **Python Strings** (How to type and change text)
 * ✅ **Python Booleans** (True and False logic)
-* ✅ **Python Operators** (Currently practicing this right now!)
+* ✅ **Python Operators** (Mastered arithmetic,assignment,and modulus logic)
 
 ## 💻 Upcoming Topics (W3Schools Order)
 * ◽ Python Lists
