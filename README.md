@@ -9,7 +9,7 @@ Hi! This is my repository where I upload my daily Python practice. I am learning
 * ✅ **Python Strings** (How to type and change text)
 * ✅ **Python Booleans** (True and False logic)
 * ✅ **Python Operators** (Mastered arithmetic,assignment and modulus logic)
-* ✅ **Python Lists** (Working with ordered,changeable and indexed collections)
+* ✅ **Python Lists** (Mastered ordered,changeable collections : slicing, methods like append/pop, and list comprehensions)
 
 ## 💻 Upcoming Topics
 * ◽ Python Tuples
