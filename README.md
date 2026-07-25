@@ -11,7 +11,7 @@ Hi! This is my repository where I upload my daily Python practice.
 * ✅ **Python Operators** 
 * ✅ **Python Lists**
 * ✅ **Python Tuples**
-* 
+
 ## 💻 Upcoming Topics
 
 * ◽ Python Sets
