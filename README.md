@@ -11,10 +11,10 @@ Hi! This is my repository where I upload my daily Python practice.
 * ✅ **Python Operators** 
 * ✅ **Python Lists**
 * ✅ **Python Tuples**
+* ✅ **Python Sets**
 
 ## 💻 Upcoming Topics
 
-* ◽ Python Sets
 * ◽ Python Dictionaries
 * ◽ Python If...Else
 * ◽ Python Loops
