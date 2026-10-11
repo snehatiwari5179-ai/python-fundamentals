@@ -51,8 +51,6 @@ A complete reference guide covering core Python concepts, data structures, and f
 
 * **IDE:** VS Code
 
-* *Reference:
-
-* W3Schools 
+* **Reference: W3Schools 
 
 [Click here to view my code files and scripts!](https://github.com/snehatiwari5179-ai/python-fundamentals)
